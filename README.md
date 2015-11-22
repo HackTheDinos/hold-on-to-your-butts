@@ -1,4 +1,4 @@
-<iframe width="420" height="315" src="https://www.youtube.com/embed/-W6as8oVcuM" frameborder="0" allowfullscreen></iframe>
+![jurassic-park](https://cloud.githubusercontent.com/assets/3488572/11323294/14a03354-90dd-11e5-9fe3-7868fd70e9d2.png)
 
 # Taxonomy Cleanup
 
